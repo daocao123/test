@@ -31,6 +31,7 @@ public class TestJdbc {
                 System.out.println(as.get(i));
             }
         }
+        System.out.println("hehe");
     }
 }
 class Stu{
