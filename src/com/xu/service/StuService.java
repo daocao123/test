@@ -25,7 +25,7 @@ public class StuService {
 
     }
     public static void change(String name,String password,int id){
-        System.out.println("第二次更新");
+        System.out.println("第三次更新");
          try{
              Interaction.update(name,password,id);
              System.out.println("修改成功");
